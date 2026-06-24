@@ -31,7 +31,7 @@
                                         src="admin-lte/dist/img/avatar.png" alt="User profile picture">
                                 </div>
 
-                                <h3 class="profile-username text-center">Alexander Pierce</h3>
+                                <h3 class="profile-username text-center">PHUM MOT</h3>
 
                                 <p class="text-muted text-center">Software Engineer</p>
 
